@@ -1,0 +1,31 @@
+FimSe->}
+FimAlgoritmo->}
+Inicio->public static void main(String[] args) {\nScanner keys<-new Scanner(System.in);
+=->==
+<-->=
+Se ->if 
+Le->keys.nextLine
+entao->{
+Escreva->System.out.println
+senao->}else{
+ E -> && 
+ Ou -> || 
+Inteiro->int
+Real->float
+Texto->String
+Boleano->boolean
+Caracter->char
+inteiroDe->Integer.parseInt
+FimEnquanto->}
+Enquanto->while
+faca->{
+eIgualA->equals
+Repita ->for (int counter=0; counter<
+ vezes->; counter++){
+FimRepita->}
+FimProcedimento->}
+Procedimento->static void
+FimFuncao->}
+Funcao->static
+retorne->return
+:\n->{\n

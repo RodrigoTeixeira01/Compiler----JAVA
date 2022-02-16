@@ -1,0 +1,4 @@
+Inicio
+//código aqui
+
+FimAlgoritmo
